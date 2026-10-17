@@ -26,5 +26,5 @@ Thumbs.db
 Desktop.ini
 .DS_Store
 
-# Publish output
+# Publish output (dotnet publish -o publish)
 publish/
